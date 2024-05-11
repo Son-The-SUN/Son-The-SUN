@@ -1,0 +1,7 @@
+[submodule "Images"]
+    path = Images/.git
+    url = https://github.com/Son-The-SUN/Images.git
+
+[submodule "profile"]
+    path = profile/.git
+    url = https://github.com/Son-The-SUN/profile.git

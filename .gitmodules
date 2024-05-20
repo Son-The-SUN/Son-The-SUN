@@ -5,3 +5,7 @@
 [submodule "profile"]
     path = profile/.git
     url = https://github.com/Son-The-SUN/profile.git
+
+[submodule "projects"]
+    path = profile/projects/.git
+    url = https://github.com/Son-The-SUN/profile/tree/main/projects

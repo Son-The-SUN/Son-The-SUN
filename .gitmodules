@@ -1,11 +1,11 @@
 [submodule "Images"]
-    path = Images/.git
+    path = Images.git
     url = https://github.com/Son-The-SUN/Images.git
 
 [submodule "profile"]
-    path = profile/.git
+    path = profile.git
     url = https://github.com/Son-The-SUN/profile.git
 
 [submodule "projects"]
-    path = profile/projects/.git
+    path = projects.git
     url = https://github.com/Son-The-SUN/profile/tree/main/projects
